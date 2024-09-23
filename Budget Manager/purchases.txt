@@ -1,0 +1,13 @@
+Cat_0
+Total_0
+0.0
+Cat_1
+Total_1
+0.0
+Cat_2
+Total_2
+0.0
+Cat_3
+Total_3
+0.0
+-37.32

@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/budget/Main.java
+    visible: true
+    learner_created: false
+  - name: test/BudgetManagerTest.java
+    visible: false
+    learner_created: false
+  - name: purchases.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7027#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 21 Sep 2024 20:30:05 UTC"
+record: 4

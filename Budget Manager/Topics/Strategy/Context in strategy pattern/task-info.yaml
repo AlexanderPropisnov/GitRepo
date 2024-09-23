@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "According to the pattern, it should be always named Context."
+  - text: It stores a reference to a strategy.
+  - text: It may provide a method to set a new strategy.
+  - text: It is the base class for concrete strategies.
+  - text: "It can represent a general behavior, while strategies represent specific\
+    \ details of algorithms."
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3332#comment
+status: Solved
+record: -1
+local_check: false

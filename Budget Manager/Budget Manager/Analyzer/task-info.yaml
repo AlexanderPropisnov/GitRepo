@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/budget/Main.java
+    visible: true
+    learner_created: false
+  - name: test/BudgetManagerTest.java
+    visible: false
+    learner_created: false
+  - name: purchases.txt
+    visible: true
+    learner_created: true
+  - name: src/budget/purchOne.java
+    visible: true
+    learner_created: true
+  - name: src/budget/purch2.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7028#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Mon, 23 Sep 2024 21:26:40 UTC"
+record: -1
